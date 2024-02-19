@@ -92,6 +92,8 @@ I'm getting the error "This microSD card is being used by another Nintendo Switc
 
 Simply put your microSD card into your computer and delete your Nintendo folder. Note that this will erase any games you've downloaded to the SD card in Horizon OS, so be sure to re-download any games you had. 
 
+........
+
 .. tip::
     If this page doesn't answer your question, feel free to ask on the `Team Neptune's discord: <https://discord.gg/Qs5c68dAEG>`_.
 
